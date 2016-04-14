@@ -24,3 +24,4 @@ else
 	echo "wrong password!<br>";
 ?>
 </body>
+</html>
